@@ -8,7 +8,7 @@ Read the docs: https://docs.y42.dev/canonical/build-command
 
 SELECT 1 AS my_column from abc
 UNION ALL
-SELECT 2 AS my_column from dcc
+SELECT 2 AS my_column from dcnc
 UNION ALL
 SELECT 3 AS my_column
 

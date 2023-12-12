@@ -6,9 +6,9 @@ Read the docs: https://docs.y42.dev/canonical/build-command
 
 */
 
-SELECT 1 AS my_column from abc
+SELECT 1 AS my_column
 UNION ALL
-SELECT 2 AS my_column from dcnc
+SELECT 2 AS my_column
 UNION ALL
 SELECT 3 AS my_column
 

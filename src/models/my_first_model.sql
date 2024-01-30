@@ -6,7 +6,7 @@ Read the docs: https://docs.y42.dev/canonical/build-command
 
 */
 
-SELECT * from xyzh AS my_column2
+SELECT * from xyzh AS my_column
 UNION ALL
 SELECT 2 AS my_column
 UNION ALL

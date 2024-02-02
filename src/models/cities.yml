@@ -5,7 +5,9 @@ sources:
     config:
       y42_source:
         type: source-file
-        connection: cties_test
+        connection: cities
+        settings:
+          reader_options: "{}"
     meta:
       experts:
         users:

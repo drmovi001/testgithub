@@ -6,7 +6,7 @@ Read the docs: https://docs.y42.dev/canonical/build-command test05
 
 */
 
-SELECT 42 AS my_column
+SELECT testing AS my_column
 UNION ALL
 SELECT 2 AS my_column
 UNION ALL
